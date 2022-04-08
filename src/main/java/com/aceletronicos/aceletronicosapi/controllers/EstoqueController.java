@@ -1,2 +1,4 @@
-package com.aceletronicos.aceletronicosapi.controllers;public class EstoqueController {
+package com.aceletronicos.aceletronicosapi.controllers;
+
+public class EstoqueController {
 }

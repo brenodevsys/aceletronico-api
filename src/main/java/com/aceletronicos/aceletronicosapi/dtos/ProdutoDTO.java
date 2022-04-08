@@ -1,2 +1,4 @@
-package com.aceletronicos.aceletronicosapi.dtos;public class ProdutoDTO {
+package com.aceletronicos.aceletronicosapi.dtos;
+
+public class ProdutoDTO {
 }

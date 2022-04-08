@@ -1,2 +1,4 @@
-package com.aceletronicos.aceletronicosapi.services;public class EstoqueService {
+package com.aceletronicos.aceletronicosapi.services;
+
+public class EstoqueService {
 }
