@@ -1,14 +1,10 @@
 package com.aceletronicos.aceletronicosapi.models;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
+import lombok.*;
 
 import javax.persistence.*;
 
-@Getter
-@Setter
+@Data
 @AllArgsConstructor
 @Entity
 @Table(name = "TB_CLIENTE")
